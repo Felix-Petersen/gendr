@@ -1,6 +1,9 @@
 MIT License
 
-Copyright (c) 2022 Felix Petersen
+Copyright (c) 2017 Hiroharu Kato    (this code builds partially on the Neural 3D Mesh Renderer)
+Copyright (c) 2018 Nikos Kolotouros (this code builds partially on the PyTorch port of the Neural 3D Mesh Renderer)
+Copyright (c) 2019 Shichen Liu      (this code builds partially on the SoftRas Renderer)
+Copyright (c) 2018-2022 Felix Petersen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

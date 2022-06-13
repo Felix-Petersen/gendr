@@ -1,0 +1,6 @@
+torch>=1.9.0
+torchvision>=0.10.0
+tqdm
+scikit-learn
+h5py
+matplotlib

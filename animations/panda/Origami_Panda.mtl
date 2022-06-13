@@ -1,0 +1,23 @@
+# Lowpoly origami panda by assetfactory on sketchfab.com. Licensed under CC Attribution.
+# Blender MTL File: 'Origamis.blend'
+# Material Count: 2
+
+newmtl Black
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.008023 0.008023 0.007499
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl White
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.863157 0.830770 0.775822
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
